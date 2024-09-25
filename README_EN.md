@@ -16,7 +16,7 @@ This project is a Go language wrapper for ZLG's CAN box driver. It provides a Go
 Ensure you have Go installed on your system. Then, clone this repository:
 
 ```
-git clone https://github.com/your-username/zlgcan-go.git
+git clone https://github.com/Gyanano/zlgcan-go.git
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ git clone https://github.com/your-username/zlgcan-go.git
 1. Import the package:
 
 ```go
-import "github.com/your-username/zlgcan-go"
+import "github.com/Gyanano/zlgcan-go"
 ```
 
 2. Create a ZCAN instance:
