@@ -16,7 +16,7 @@
 确保你的系统中已安装Go语言环境。然后,克隆此仓库:
 
 ```
-git clone https://github.com/your-username/zlgcan-go.git
+git clone https://github.com/Gyanano/zlgcan-go.git
 ```
 
 ## 使用方法
@@ -24,7 +24,7 @@ git clone https://github.com/your-username/zlgcan-go.git
 1. 导入包:
 
 ```go
-import "github.com/your-username/zlgcan-go"
+import "github.com/Gyanano/zlgcan-go"
 ```
 
 2. 创建ZCAN实例:
